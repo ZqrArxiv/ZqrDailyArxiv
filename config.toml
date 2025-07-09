@@ -1,5 +1,5 @@
-site_title = "MyArxiv"
-limit_days = 7
+site_title = "RobotDailyArxiv"
+limit_days = 14
 cache_url = "https://github.com/ZqrArxiv/ZqrDailyArxiv/cache.json"
 
 [[sources]]
